@@ -1,6 +1,8 @@
 Lista zakupow:
 
 	- chleb
+	- jajka
+	- dzem
 	- maslo
 	- jablka
 
