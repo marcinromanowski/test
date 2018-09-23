@@ -2,5 +2,7 @@ Lista zakupow:
 
 	- zupa w proszku
 	- gazeta
+	- jablka
+	- gruszki
 
 Termin: pazdziernik 2018
