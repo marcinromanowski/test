@@ -1,10 +1,5 @@
 Lista zakupow:
 
-	- chleb
-	- jajka
-	- dzem
-	- maslo
-	- makaron
-	- jablka
+	- zupa w proszku
 
-Termin: 2018!
+Termin: pazdziernik 2018
