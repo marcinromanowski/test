@@ -1,5 +1,6 @@
 Lista zakupow:
 
 	- zupa w proszku
+	- gazeta
 
 Termin: pazdziernik 2018
