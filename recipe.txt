@@ -6,5 +6,7 @@ Lista zakupow:
 	- maslo
 	- makaron
 	- jablka
+	- gruszki
+	- owoce
 
 Termin: 2018!
