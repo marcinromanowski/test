@@ -1,0 +1,7 @@
+Lista zakupow:
+
+	- chleb
+	- maslo
+	- jablka
+
+Termin: 2019
