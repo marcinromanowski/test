@@ -4,6 +4,7 @@ Lista zakupow:
 	- jajka
 	- dzem
 	- maslo
+	- makaron
 	- jablka
 
-Termin: 2019
+Termin: 2018!
